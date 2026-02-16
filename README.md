@@ -1,4 +1,4 @@
-# **Global Superstore Project - Power BI** 
+# **Global Super Store Project - Power BI** 
 
 ## 📌 Project Overview  
 
