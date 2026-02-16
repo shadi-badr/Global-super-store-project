@@ -13,7 +13,7 @@ The dashboards help identify trends, measure profitability, and support better b
 - Customer segmentation with **RFM analysis**  
 
 ___
-## 📷 Screenshot  
+## 📷 Dashboard Preview 
 
 ### Sales Performance
 ![Sales Performance](sereenshots/sales.png)
