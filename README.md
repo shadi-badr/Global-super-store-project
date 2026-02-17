@@ -12,16 +12,16 @@ The dashboards help identify trends, measure profitability, and support better b
 - Sales rep performance comparison
 - Customer segmentation with **RFM analysis**  
 
-___
+
 ## 📷 Dashboard Preview 
 
-### Sales Performance
+*Sales Performance*
 ![Sales Performance](sereenshots/sales.png)
-### Returns Overview
+*Returns Overview*
 ![Returns Overview](sereenshots/returns.png)
-### Sales Rep Summary
+*Sales Rep Summary*
 ![Returns Overview](sereenshots/sales_rep.png)
-### Customer Segmentation
+*Customer Segmentation*
 ![Returns Overview](sereenshots/customer_segmentation.png)
 
 
